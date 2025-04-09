@@ -11,13 +11,13 @@
 
 🌱 Currently exploring:
 
-    Cloud platform services (AWS, Azure, GCP)
+   Cloud platform services (AWS, Azure, GCP)
 
-    Containerization with Docker & Kubernetes
+   Containerization with Docker & Kubernetes
 
-    CI/CD pipelines
+   CI/CD pipelines
 
-    Serverless architecture
+   Serverless architecture
 
 Feel free to check out my repositories for personal projects and collaborative work!
 
