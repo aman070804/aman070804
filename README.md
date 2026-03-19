@@ -1,6 +1,6 @@
 👋 Hi, I'm Chandrakant A. Pardeshi!
 
-🎓 I’ve recently completed my Bachelor of Computer Applications (BCA) and am passionate about technology, cloud computing, and software development.
+🎓 I’ve recently completed my Bachelor of Computer Applications (BCA) and am passionate about DevOps and Cloud computing.
    My goal is to become a proficient Cloud Developer and contribute to building scalable, efficient, and reliable cloud-based solutions.
 
 💻 I’m currently diving deep into cloud technologies, including AWS, Azure, and Google Cloud, and I’m always exploring new tools and frameworks. 
